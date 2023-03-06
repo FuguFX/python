@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 apple_price = 200
 
 # input を用いて入力を受け取り、変数 input_count に代入してください
